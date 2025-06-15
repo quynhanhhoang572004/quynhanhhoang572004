@@ -1,19 +1,10 @@
-## Hi there 👋
+## Hi there, My name is Hoang Ngoc Quynh Anh👋
 
-<!--
-**quynhanhhoang572004/quynhanhhoang572004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently a third-year computer science at International University - VNU, with a strong passion for both Machine Learning and Front-End Development. I enjoy solving real-world problems through data science and AI and also love crafting interactive, user-friendly web interfaces.
+- 📫 How to reach me: quynhanhhoang572004@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 <!--START_SECTION:waka-->
 
@@ -26,3 +17,6 @@ SWIG         6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![Full-year Contribution Calendar](https://github.com/quynhanhhoang572004/quynhanhhoang572004/blob/main/metrics.plugin.isocalendar.fullyear.svg)
+
