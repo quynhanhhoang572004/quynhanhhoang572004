@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every day at midnight UTC
+    - cron: "0 0 * * *"  # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
