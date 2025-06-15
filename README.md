@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Python       5 hrs 34 mins   ██████████████████░░░░░░░   72.05 %
+ANTLR        59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+CSV          32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Text         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+SWIG         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+```
+
 <!--END_SECTION:waka-->
