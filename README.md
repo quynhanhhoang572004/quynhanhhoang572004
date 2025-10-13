@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quynhanh572004/)[![Profile Views](https://komarev.com/ghpvc/?username=quynhanhhoang572004&color=blue&style=flat-square)](https://github.com/quynhanhhoang572004)  
 
-<samp> I'm learning and failing <samp> 
+<samp> Learn how to learn <samp> 
 
 
 
