@@ -10,8 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter    5 mins          █████████████████████████   99.86 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Jupyter    5 mins                █████████████████████████   99.86 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
